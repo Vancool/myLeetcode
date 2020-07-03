@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d64a322e-7209-44c2-82aa-2517e8a52ea6" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Premix_sum/Trie_PremixTree/Leetcode_208/lc208.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Premix_sum/Trie_PremixTree/Leetcode_208/other_lc208.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Binary_search/Matrix_search/Leetcode_378/lc378.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Binary_search/Matrix_search/Leetcode_378/other_lc378.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Leetcode_621/lc621.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/leetcode/editor.xml" afterPath="$PROJECT_DIR$/.idea/leetcode/editor.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
@@ -20,26 +21,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="lc208.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Regular/Leetcode_208/lc208.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="33" selection-end-column="19" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="other_lc208.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Regular/Leetcode_208/other_lc208.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="253">
-              <caret line="11" column="27" lean-forward="false" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="27" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="lc208.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Premix_sum/Trie_PremixTree/Leetcode_208/lc208.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -100,21 +81,31 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="lc363.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Leetcode_363/lc363.py">
+      <file leaf-file-name="lc378.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Binary_search/Matrix_search/Leetcode_378/lc378.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="430">
-              <caret line="35" column="0" lean-forward="false" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="[332]Reconstruct Itinerary.py" pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/AppData/Local/Temp/leetcode/editor/en/[332]Reconstruct Itinerary.py">
+      <file leaf-file-name="other_lc378.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Binary_search/Matrix_search/Leetcode_378/other_lc378.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="851">
-              <caret line="37" column="15" lean-forward="false" selection-start-line="37" selection-start-column="15" selection-end-line="37" selection-end-column="15" />
+            <state relative-caret-position="230">
+              <caret line="10" column="21" lean-forward="false" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="lc621.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Leetcode_621/lc621.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="276">
+              <caret line="12" column="55" lean-forward="true" selection-start-line="12" selection-start-column="55" selection-end-line="12" selection-end-column="55" />
               <folding />
             </state>
           </provider>
@@ -145,11 +136,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Leetcode_129/lc129.py" />
-        <option value="$PROJECT_DIR$/Leetcode_12/lc12.py" />
-        <option value="$PROJECT_DIR$/Leetcode_13/lc13.py" />
-        <option value="$PROJECT_DIR$/TestEveryday/interview_46.py" />
-        <option value="$PROJECT_DIR$/Leetcode_126/lc126.py" />
         <option value="$PROJECT_DIR$/Leetcode_126/other_lc126.py" />
         <option value="$PROJECT_DIR$/Leetcode_29/lc29.py" />
         <option value="$PROJECT_DIR$/Leetcode_1300/lc1300.py" />
@@ -196,14 +182,19 @@
         <option value="$PROJECT_DIR$/Leetcode_641/lc641.py" />
         <option value="$PROJECT_DIR$/Leetcode_641/other_lc641.py" />
         <option value="$PROJECT_DIR$/Leetcode_363/lc363.py" />
+        <option value="$PROJECT_DIR$/Leetcode_378/lc378.py" />
+        <option value="$PROJECT_DIR$/Leetcode_378/other_lc378.py" />
+        <option value="$PROJECT_DIR$/Binary_search/Matrix_search/Leetcode_378/other_lc378.py" />
+        <option value="$USER_HOME$/AppData/Local/Temp/leetcode/editor/en/[378]Kth Smallest Element in a Sorted Matrix.py" />
+        <option value="$PROJECT_DIR$/Leetcode_621/lc621.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="163" />
-    <option name="y" value="70" />
-    <option name="width" value="1467" />
-    <option name="height" value="829" />
+    <option name="x" value="595" />
+    <option name="y" value="121" />
+    <option name="width" value="1173" />
+    <option name="height" value="868" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
@@ -223,7 +214,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -287,13 +277,14 @@
               <option name="myItemId" value="" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="Leetcode_363">
+            <PATH_ELEMENT USER_OBJECT="Leetcode_621">
               <option name="myItemId" value="" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -303,19 +294,19 @@
     <property name="settings.editor.splitter.proportion" value="0.265252" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\myPython\myLeetcode\Design_Structure" />
-      <recent name="D:\myPython\myLeetcode\Regular" />
-      <recent name="D:\myPython\myLeetcode\Graph_DFSandBFS\Euler_path" />
-      <recent name="D:\myPython\myLeetcode\Tree\BST" />
-      <recent name="D:\myPython\myLeetcode\Graph_DFSandBFS\topo_sort" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\myPython\myLeetcode\Premix_sum\Trie_PremixTree" />
       <recent name="D:\myPython\myLeetcode\Two_Pointer\Duizhuang_Point" />
       <recent name="D:\myPython\myLeetcode\Regular" />
       <recent name="D:\myPython\myLeetcode\Design_Structure" />
       <recent name="D:\myPython\myLeetcode\Binary_search" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\myPython\myLeetcode\Binary_search\Matrix_search" />
+      <recent name="D:\myPython\myLeetcode\Binary_search\Binary_search" />
+      <recent name="D:\myPython\myLeetcode\Design_Structure" />
+      <recent name="D:\myPython\myLeetcode\Regular" />
+      <recent name="D:\myPython\myLeetcode\Graph_DFSandBFS\Euler_path" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -330,79 +321,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.lc363">
-    <configuration default="false" name="others_lc332" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Graph_DFSandBFS/Euler_path/Leetcode_332" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="myLeetcode" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Graph_DFSandBFS/Euler_path/Leetcode_332/others_lc332.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="lc41" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/TestEveryday" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="myLeetcode" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/TestEveryday/lc41.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="lc209" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/TestEveryday" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="myLeetcode" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/TestEveryday/lc209.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="lc212" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Leetcode_212" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="myLeetcode" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Leetcode_212/lc212.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Python.lc621">
     <configuration default="false" name="lc363" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -416,6 +335,78 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="myLeetcode" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Leetcode_363/lc363.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="lc378" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Leetcode_378" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="myLeetcode" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Leetcode_378/lc378.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="other_lc378" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Leetcode_378" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="myLeetcode" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Leetcode_378/other_lc378.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="other_lc378 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Binary_search/Matrix_search/Leetcode_378" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="myLeetcode" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Binary_search/Matrix_search/Leetcode_378/other_lc378.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="lc621" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Leetcode_621" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="myLeetcode" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Leetcode_621/lc621.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -541,19 +532,19 @@
     <list size="7">
       <item index="0" class="java.lang.String" itemvalue="Python.lc501" />
       <item index="1" class="java.lang.String" itemvalue="Python.Other1 (1)" />
-      <item index="2" class="java.lang.String" itemvalue="Python.others_lc332" />
-      <item index="3" class="java.lang.String" itemvalue="Python.lc41" />
-      <item index="4" class="java.lang.String" itemvalue="Python.lc209" />
-      <item index="5" class="java.lang.String" itemvalue="Python.lc212" />
-      <item index="6" class="java.lang.String" itemvalue="Python.lc363" />
+      <item index="2" class="java.lang.String" itemvalue="Python.lc363" />
+      <item index="3" class="java.lang.String" itemvalue="Python.lc378" />
+      <item index="4" class="java.lang.String" itemvalue="Python.other_lc378" />
+      <item index="5" class="java.lang.String" itemvalue="Python.other_lc378 (1)" />
+      <item index="6" class="java.lang.String" itemvalue="Python.lc621" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.lc363" />
-        <item index="1" class="java.lang.String" itemvalue="Python.lc212" />
-        <item index="2" class="java.lang.String" itemvalue="Python.lc209" />
-        <item index="3" class="java.lang.String" itemvalue="Python.lc41" />
-        <item index="4" class="java.lang.String" itemvalue="Python.others_lc332" />
+        <item index="0" class="java.lang.String" itemvalue="Python.lc621" />
+        <item index="1" class="java.lang.String" itemvalue="Python.other_lc378 (1)" />
+        <item index="2" class="java.lang.String" itemvalue="Python.other_lc378" />
+        <item index="3" class="java.lang.String" itemvalue="Python.lc378" />
+        <item index="4" class="java.lang.String" itemvalue="Python.lc363" />
       </list>
     </recent_temporary>
   </component>
@@ -615,19 +606,19 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="163" y="70" width="1467" height="829" extended-state="0" />
+    <frame x="595" y="121" width="1173" height="868" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.29217517" sideWeight="0.46471602" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22020018" sideWeight="0.46471602" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="WINDOWED" visible="false" show_stripe_button="true" weight="0.3278496" sideWeight="0.5" order="5" side_tool="false" content_ui="combo" x="21" y="731" width="1864" height="279" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.07582939" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="false" show_stripe_button="true" weight="0.66148067" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" x="349" y="716" width="1233" height="242" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.07581227" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="false" show_stripe_button="true" weight="0.66148067" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" x="346" y="712" width="1233" height="242" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.3274648" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" x="39" y="727" width="1864" height="279" />
-      <window_info id="leetcode" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3288804" sideWeight="0.50687283" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="leetcode" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32886267" sideWeight="0.50687283" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24913971" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32598424" sideWeight="0.5" order="9" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39810428" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" x="56" y="354" width="1864" height="442" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.26694044" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" x="56" y="354" width="1864" height="442" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.16448727" sideWeight="0.535284" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3288804" sideWeight="0.49312714" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -934,6 +925,11 @@
           <line>21</line>
           <option name="timeStamp" value="758" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Binary_search/Matrix_search/Leetcode_378/other_lc378.py</url>
+          <line>32</line>
+          <option name="timeStamp" value="778" />
+        </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
         <breakpoint type="python-exception">
@@ -942,7 +938,7 @@
           </properties>
         </breakpoint>
       </default-breakpoints>
-      <option name="time" value="760" />
+      <option name="time" value="780" />
     </breakpoint-manager>
     <watches-manager>
       <configuration name="PythonConfigurationType">
@@ -984,41 +980,6 @@
     </watches-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Regular/Leetcode_454/lc454.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DP/Leetcode_10/Others.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="17" column="25" lean-forward="false" selection-start-line="17" selection-start-column="25" selection-end-line="17" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DP/Leetcode_5/other_lc5.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DP/Leetcode_5/lc5.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DP/Interview46/jianzhi_46.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/TestEveryday/lc10.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="437">
@@ -1271,7 +1232,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="851">
           <caret line="37" column="15" lean-forward="false" selection-start-line="37" selection-start-column="15" selection-end-line="37" selection-end-column="15" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1279,7 +1239,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="33" selection-end-column="19" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1287,7 +1246,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="253">
           <caret line="11" column="27" lean-forward="false" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="27" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1341,8 +1299,45 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Leetcode_363/lc363.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="430">
-          <caret line="35" column="0" lean-forward="false" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
+        <state relative-caret-position="39">
+          <caret line="18" column="8" lean-forward="false" selection-start-line="18" selection-start-column="8" selection-end-line="18" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Binary_search/Matrix_search/Leetcode_378/lc378.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/leetcode/editor/en/[378]Kth Smallest Element in a Sorted Matrix.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="720">
+          <caret line="46" column="28" lean-forward="false" selection-start-line="46" selection-start-column="28" selection-end-line="46" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Binary_search/Matrix_search/Leetcode_378/other_lc378.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="10" column="21" lean-forward="false" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Anaconda3/Lib/heapq.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="151">
+          <caret line="129" column="4" lean-forward="false" selection-start-line="129" selection-start-column="4" selection-end-line="129" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Leetcode_621/lc621.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="12" column="55" lean-forward="true" selection-start-line="12" selection-start-column="55" selection-end-line="12" selection-end-column="55" />
           <folding />
         </state>
       </provider>
