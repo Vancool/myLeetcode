@@ -18,7 +18,9 @@ class Solution(object):
             if count > 0:
                 heapq.heappush(min_heap, [n, task, count])
         return t
-
+'''
+这题我不会做， 原来是用贪心
+'''
 a = Solution()
 tasks = ["A","A","A","B","B","B"]
 n = 2

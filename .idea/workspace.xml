@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d64a322e-7209-44c2-82aa-2517e8a52ea6" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Binary_search/Matrix_search/Leetcode_378/lc378.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Binary_search/Matrix_search/Leetcode_378/other_lc378.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Leetcode_621/lc621.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/leetcode/editor.xml" afterPath="$PROJECT_DIR$/.idea/leetcode/editor.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Leetcode_621/lc621.py" afterPath="$PROJECT_DIR$/All_about_sorted/CountingSort/Greedy_stunk/Leetcode_621/lc621.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -21,16 +18,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="lc208.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Premix_sum/Trie_PremixTree/Leetcode_208/lc208.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="161">
-              <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="lc212.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Leetcode_212/lc212.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -101,11 +88,31 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="lc621.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Leetcode_621/lc621.py">
+      <file leaf-file-name="lc621.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/All_about_sorted/CountingSort/Greedy_stunk/Leetcode_621/lc621.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="276">
-              <caret line="12" column="55" lean-forward="true" selection-start-line="12" selection-start-column="55" selection-end-line="12" selection-end-column="55" />
+            <state relative-caret-position="483">
+              <caret line="21" column="14" lean-forward="false" selection-start-line="21" selection-start-column="14" selection-end-line="21" selection-end-column="14" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="other_lc621.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/All_about_sorted/CountingSort/Greedy_stunk/Leetcode_621/other_lc621.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="152">
+              <caret line="24" column="33" lean-forward="false" selection-start-line="24" selection-start-column="28" selection-end-line="24" selection-end-column="33" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="lc767.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/All_about_sorted/CountingSort/Greedy_stunk/Leetcode_767/lc767.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="239">
+              <caret line="16" column="36" lean-forward="true" selection-start-line="16" selection-start-column="36" selection-end-line="16" selection-end-column="36" />
               <folding />
             </state>
           </provider>
@@ -136,8 +143,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Leetcode_126/other_lc126.py" />
-        <option value="$PROJECT_DIR$/Leetcode_29/lc29.py" />
         <option value="$PROJECT_DIR$/Leetcode_1300/lc1300.py" />
         <option value="$PROJECT_DIR$/Leetcode_376/lc376.py" />
         <option value="$PROJECT_DIR$/Leetcode_376/other_lc376.py" />
@@ -187,13 +192,15 @@
         <option value="$PROJECT_DIR$/Binary_search/Matrix_search/Leetcode_378/other_lc378.py" />
         <option value="$USER_HOME$/AppData/Local/Temp/leetcode/editor/en/[378]Kth Smallest Element in a Sorted Matrix.py" />
         <option value="$PROJECT_DIR$/Leetcode_621/lc621.py" />
+        <option value="$PROJECT_DIR$/Leetcode_621/other_lc621.py" />
+        <option value="$PROJECT_DIR$/All_about_sorted/CountingSort/Greedy_stunk/Leetcode_767/lc767.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="595" />
-    <option name="y" value="121" />
-    <option name="width" value="1173" />
+    <option name="x" value="190" />
+    <option name="y" value="34" />
+    <option name="width" value="1363" />
     <option name="height" value="868" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -214,6 +221,75 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
+      <pane id="Scope">
+        <subPane subId="Project Files">
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="myLeetcode">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="myLeetcode">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="All_about_sorted">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="myLeetcode">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="All_about_sorted">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="CountingSort">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="myLeetcode">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="All_about_sorted">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="CountingSort">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="Greedy_stunk">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -256,35 +332,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope">
-        <subPane subId="Project Files">
-          <PATH>
-            <PATH_ELEMENT USER_OBJECT="Root">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="myLeetcode">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT USER_OBJECT="Root">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="myLeetcode">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="Leetcode_621">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-        </subPane>
-      </pane>
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -294,19 +341,19 @@
     <property name="settings.editor.splitter.proportion" value="0.265252" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\myPython\myLeetcode\All_about_sorted\CountingSort\Greedy_stunk" />
+      <recent name="D:\myPython\myLeetcode\Binary_search\Matrix_search" />
+      <recent name="D:\myPython\myLeetcode\Binary_search\Binary_search" />
+      <recent name="D:\myPython\myLeetcode\Design_Structure" />
+      <recent name="D:\myPython\myLeetcode\Regular" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\myPython\myLeetcode\Premix_sum\Trie_PremixTree" />
       <recent name="D:\myPython\myLeetcode\Two_Pointer\Duizhuang_Point" />
       <recent name="D:\myPython\myLeetcode\Regular" />
       <recent name="D:\myPython\myLeetcode\Design_Structure" />
       <recent name="D:\myPython\myLeetcode\Binary_search" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\myPython\myLeetcode\Binary_search\Matrix_search" />
-      <recent name="D:\myPython\myLeetcode\Binary_search\Binary_search" />
-      <recent name="D:\myPython\myLeetcode\Design_Structure" />
-      <recent name="D:\myPython\myLeetcode\Regular" />
-      <recent name="D:\myPython\myLeetcode\Graph_DFSandBFS\Euler_path" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -321,43 +368,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.lc621">
-    <configuration default="false" name="lc363" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Leetcode_363" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="myLeetcode" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Leetcode_363/lc363.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="lc378" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Leetcode_378" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="myLeetcode" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Leetcode_378/lc378.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Python.lc767">
     <configuration default="false" name="other_lc378" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -407,6 +418,42 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="myLeetcode" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Leetcode_621/lc621.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="other_lc621" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Leetcode_621" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="myLeetcode" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Leetcode_621/other_lc621.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="lc767" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/All_about_sorted/CountingSort/Greedy_stunk/Leetcode_767" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="myLeetcode" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/All_about_sorted/CountingSort/Greedy_stunk/Leetcode_767/lc767.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -532,19 +579,19 @@
     <list size="7">
       <item index="0" class="java.lang.String" itemvalue="Python.lc501" />
       <item index="1" class="java.lang.String" itemvalue="Python.Other1 (1)" />
-      <item index="2" class="java.lang.String" itemvalue="Python.lc363" />
-      <item index="3" class="java.lang.String" itemvalue="Python.lc378" />
-      <item index="4" class="java.lang.String" itemvalue="Python.other_lc378" />
-      <item index="5" class="java.lang.String" itemvalue="Python.other_lc378 (1)" />
-      <item index="6" class="java.lang.String" itemvalue="Python.lc621" />
+      <item index="2" class="java.lang.String" itemvalue="Python.other_lc378" />
+      <item index="3" class="java.lang.String" itemvalue="Python.other_lc378 (1)" />
+      <item index="4" class="java.lang.String" itemvalue="Python.lc621" />
+      <item index="5" class="java.lang.String" itemvalue="Python.other_lc621" />
+      <item index="6" class="java.lang.String" itemvalue="Python.lc767" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.lc621" />
-        <item index="1" class="java.lang.String" itemvalue="Python.other_lc378 (1)" />
-        <item index="2" class="java.lang.String" itemvalue="Python.other_lc378" />
-        <item index="3" class="java.lang.String" itemvalue="Python.lc378" />
-        <item index="4" class="java.lang.String" itemvalue="Python.lc363" />
+        <item index="0" class="java.lang.String" itemvalue="Python.lc767" />
+        <item index="1" class="java.lang.String" itemvalue="Python.other_lc621" />
+        <item index="2" class="java.lang.String" itemvalue="Python.lc621" />
+        <item index="3" class="java.lang.String" itemvalue="Python.other_lc378 (1)" />
+        <item index="4" class="java.lang.String" itemvalue="Python.other_lc378" />
       </list>
     </recent_temporary>
   </component>
@@ -606,10 +653,9 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="595" y="121" width="1173" height="868" extended-state="0" />
-    <editor active="true" />
+    <frame x="190" y="34" width="1363" height="868" extended-state="0" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22020018" sideWeight="0.46471602" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1923972" sideWeight="0.46471602" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="WINDOWED" visible="false" show_stripe_button="true" weight="0.3278496" sideWeight="0.5" order="5" side_tool="false" content_ui="combo" x="21" y="731" width="1864" height="279" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.07581227" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="false" show_stripe_button="true" weight="0.66148067" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" x="346" y="712" width="1233" height="242" />
@@ -618,7 +664,7 @@
       <window_info id="leetcode" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32886267" sideWeight="0.50687283" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24913971" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32598424" sideWeight="0.5" order="9" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.26694044" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" x="56" y="354" width="1864" height="442" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.26636904" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" x="56" y="354" width="1864" height="442" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.16448727" sideWeight="0.535284" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3288804" sideWeight="0.49312714" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -930,6 +976,11 @@
           <line>32</line>
           <option name="timeStamp" value="778" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/All_about_sorted/CountingSort/Greedy_stunk/Leetcode_767/lc767.py</url>
+          <line>13</line>
+          <option name="timeStamp" value="783" />
+        </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
         <breakpoint type="python-exception">
@@ -938,7 +989,7 @@
           </properties>
         </breakpoint>
       </default-breakpoints>
-      <option name="time" value="780" />
+      <option name="time" value="784" />
     </breakpoint-manager>
     <watches-manager>
       <configuration name="PythonConfigurationType">
@@ -980,20 +1031,6 @@
     </watches-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/TestEveryday/lc10.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="437">
-          <caret line="19" column="49" lean-forward="true" selection-start-line="19" selection-start-column="49" selection-end-line="19" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Bitwise/All_about_Yihuo/Leetcode_136/lc136.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Bitwise/All_about_Yihuo/Leetcode260/other_lc260.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="598">
@@ -1334,10 +1371,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Leetcode_621/lc621.py">
+    <entry file="file://$PROJECT_DIR$/All_about_sorted/CountingSort/Greedy_stunk/Leetcode_621/lc621.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="276">
-          <caret line="12" column="55" lean-forward="true" selection-start-line="12" selection-start-column="55" selection-end-line="12" selection-end-column="55" />
+        <state relative-caret-position="483">
+          <caret line="21" column="14" lean-forward="false" selection-start-line="21" selection-start-column="14" selection-end-line="21" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/All_about_sorted/CountingSort/Greedy_stunk/Leetcode_621/other_lc621.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="24" column="33" lean-forward="false" selection-start-line="24" selection-start-column="28" selection-end-line="24" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/All_about_sorted/CountingSort/Greedy_stunk/Leetcode_767/lc767.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="239">
+          <caret line="16" column="36" lean-forward="true" selection-start-line="16" selection-start-column="36" selection-end-line="16" selection-end-column="36" />
           <folding />
         </state>
       </provider>
