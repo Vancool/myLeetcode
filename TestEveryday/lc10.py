@@ -1,8 +1,8 @@
 class Solution(object):
     def isMatch(self, s, p):
         dp = [[False]*(len(p)+1) for _ in range(len(s)+1)]
-+
-for i in range(len(s)+1):
+
+        for i in range(len(s)+1):
             for j in range(len(p)+1):
                 if i == 0:
                     if i == 0 and j == 0:

@@ -32,4 +32,9 @@ res 是负数的情况没考虑
 
 res是单个数的情况
 '''
+'''
+这题真的好难， 我不会，注意要多看几次题解
+https://leetcode-cn.com/problems/max-sum-of-rectangle-no-larger-than-k/solution/javacong-bao-li-kai-shi-you-hua-pei-tu-pei-zhu-shi/
+https://leetcode-cn.com/problems/max-sum-of-rectangle-no-larger-than-k/solution/bao-li-onyou-hua-er-fen-er-fen-jian-zhi-by-lzh_yve/
+'''
 

@@ -20,7 +20,15 @@ class Solution(object):
                     res = res + key
                     hashmap[key] -= 1
         return res
+'''
+这题我还是没有解出来，原来是有两种方法填
+1. 按照位置奇偶来填
+2. 做成大根堆按照字符频率和前一个字符关系来填
 
+注意的是这个时候我们不知道间隔多少，所以greedy的策略是每隔一个填一次
+详情见 other
+
+'''
 
 a = Solution()
 S = "vvvlo"
